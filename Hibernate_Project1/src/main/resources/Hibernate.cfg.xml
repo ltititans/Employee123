@@ -17,7 +17,7 @@
       </property>
       
       
-      <mapping resource = "Employee.hbm.xml"/>
+      <mapping resource = "com.lti.hib.hib_ex.Hibernate_Project.Employee.hbm.xml"/>
       
    </session-factory>
 </hibernate-configuration>
